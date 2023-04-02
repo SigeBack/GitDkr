@@ -14,8 +14,12 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
     public partial class FormMain : Form
     {
         AttendanceJournalDB dbAttendanceJournal;
-// nothing new here chill
-// reverted back changes
+<<<<<<< HEAD
+//some more change reverted actually
+//yeah happens, I guess
+//very annoying patch with bugs
+//totally ready for master rep
+>>>>>>> new-features
         public FormMain()
         {
             InitializeComponent();
