@@ -16,6 +16,8 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
         AttendanceJournalDB dbAttendanceJournal;
 <<<<<<< HEAD
 //some more change reverted actually
+//yeah happens, I guess
+//very annoying patch with bugs
 //totally ready for master rep
 >>>>>>> new-features
         public FormMain()
