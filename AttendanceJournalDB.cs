@@ -11,7 +11,8 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
     internal class AttendanceJournalDB
     {
         JournalContextMSSQL db;
-//some change
+//some major change
+//very nice features here
         public AttendanceJournalDB()
         {
             db = new JournalContextMSSQL();
