@@ -14,6 +14,7 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
     public partial class FormMain : Form
     {
         AttendanceJournalDB dbAttendanceJournal;
+//some more change
         public FormMain()
         {
             InitializeComponent();
