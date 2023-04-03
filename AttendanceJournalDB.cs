@@ -14,6 +14,7 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
 <<<<<<< HEAD
 <<<<<<< HEAD
 //some change
+// more change from colleague account
 >>>>>>> parent of 2882989 (New files added. New features in AttendanceJournalDB.cs and FormMain.cs)
         public AttendanceJournalDB()
         {
