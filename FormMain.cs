@@ -15,11 +15,13 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
     {
         AttendanceJournalDB dbAttendanceJournal;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //some more change reverted actually
 //yeah happens, I guess
 //very annoying patch with bugs
 //totally ready for master rep
 >>>>>>> new-features
+>>>>>>> parent of 2882989 (New files added. New features in AttendanceJournalDB.cs and FormMain.cs)
         public FormMain()
         {
             InitializeComponent();

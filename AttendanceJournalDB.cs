@@ -12,10 +12,9 @@ namespace WindowsForms_Yalovoy_AttendanceJournal
     {
         JournalContextMSSQL db;
 <<<<<<< HEAD
-// some change oh no forget it
-// actually why not lets patch it a few times and good to go
-// Good plan Mr. Smith, commit to master we shall!
->>>>>>> new-features
+<<<<<<< HEAD
+//some change
+>>>>>>> parent of 2882989 (New files added. New features in AttendanceJournalDB.cs and FormMain.cs)
         public AttendanceJournalDB()
         {
             db = new JournalContextMSSQL();
